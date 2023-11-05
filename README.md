@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Pastikan sudah clone repo API nya
